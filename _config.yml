@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,20 +107,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "fateme"
+  avatar           : "/assets/images/20d89dd0-8174-11ee-b05c-a7ac1da4c186.jpg"
+  bio              : I'm student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : f.dolati84@gmail.com
+  twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: 
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:f.dolati84@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
