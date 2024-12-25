@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* listening to music
+* spending time with my friends
+* eating food
 
 
