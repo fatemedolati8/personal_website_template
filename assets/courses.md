@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /class/
+permalink: /courses/
 title: term 1
 tags: []
 modified: 4-10-2019
